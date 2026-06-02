@@ -1,0 +1,551 @@
+# Qaiyo Testimonials translations
+# Copyright (C) Qaiyo by PixelDesigns
+msgid ""
+msgstr ""
+"Project-Id-Version: qaiyo-testimonials 1.0.0\n"
+"POT-Creation-Date: 2026-05-31 17:34+0000\n"
+"PO-Revision-Date: 2026-05-31 17:34+0000\n"
+"Last-Translator: Qaiyo by PixelDesigns <info@qaiyo-plugins.com>\n"
+"Language-Team: French\n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: build-translations.py\n"
+
+msgid "Testimonials"
+msgstr "Témoignages"
+
+msgid "Testimonial"
+msgstr "Témoignage"
+
+msgid "Add New"
+msgstr "Ajouter"
+
+msgid "Add New Testimonial"
+msgstr "Ajouter un témoignage"
+
+msgid "Edit Testimonial"
+msgstr "Modifier le témoignage"
+
+msgid "New Testimonial"
+msgstr "Nouveau témoignage"
+
+msgid "View Testimonial"
+msgstr "Voir le témoignage"
+
+msgid "Search Testimonials"
+msgstr "Rechercher des témoignages"
+
+msgid "No testimonials found"
+msgstr "Aucun témoignage trouvé"
+
+msgid "No testimonials found in Trash"
+msgstr "Aucun témoignage dans la corbeille"
+
+msgid "All Testimonials"
+msgstr "Tous les témoignages"
+
+msgid "Categories"
+msgstr "Catégories"
+
+msgid "Category"
+msgstr "Catégorie"
+
+msgid "Search Categories"
+msgstr "Rechercher des catégories"
+
+msgid "All Categories"
+msgstr "Toutes les catégories"
+
+msgid "Edit Category"
+msgstr "Modifier la catégorie"
+
+msgid "Update Category"
+msgstr "Mettre à jour"
+
+msgid "Add New Category"
+msgstr "Ajouter une catégorie"
+
+msgid "New Category Name"
+msgstr "Nom de la catégorie"
+
+msgid "Photo"
+msgstr "Photo"
+
+msgid "Company"
+msgstr "Entreprise"
+
+msgid "Testimonial Details"
+msgstr "Détails du témoignage"
+
+msgid "V4 Highlight (Bento)"
+msgstr "Mise en avant V4 (Bento)"
+
+msgid "Shortcode"
+msgstr "Shortcode"
+
+msgid "Customer name is taken from the title above."
+msgstr "Le nom du client provient du titre ci-dessus."
+
+msgid "Heading (optional)"
+msgstr "Titre (optionnel)"
+
+msgid "Short headline shown above the quote (V1, V2, V3, V4). Leave empty to hide."
+msgstr "Titre court au-dessus de la citation (V1, V2, V3, V4). Laisser vide pour masquer."
+
+msgid "Quote / Description"
+msgstr "Citation / Description"
+
+msgid "Position"
+msgstr "Poste"
+
+msgid "Customer photo (JPG/PNG/WebP, max 1 MB)"
+msgstr "Photo du client (JPG/PNG/WebP, max 1 Mo)"
+
+msgid "Select / Upload"
+msgstr "Sélectionner / Téléverser"
+
+msgid "Remove"
+msgstr "Supprimer"
+
+msgid "Highlight this box in V4 (Bento) layouts"
+msgstr "Mettre en avant cette boîte dans V4 (Bento)"
+
+msgid "Highlight background"
+msgstr "Arrière-plan"
+
+msgid "Highlight text color"
+msgstr "Couleur du texte"
+
+msgid "Only affects V4 (Bento). Other versions ignore these settings."
+msgstr "Affecte uniquement V4 (Bento). Les autres versions ignorent ces paramètres."
+
+msgid "Display testimonials with:"
+msgstr "Afficher les témoignages avec :"
+
+msgid "See the Settings page for all attributes."
+msgstr "Voir la page Réglages pour tous les attributs."
+
+msgid "Testimonials Settings"
+msgstr "Réglages des témoignages"
+
+msgid "Settings"
+msgstr "Réglages"
+
+msgid "Default frontend appearance for all testimonial layouts. Shortcode attributes override these defaults per instance."
+msgstr "Apparence par défaut. Les attributs du shortcode remplacent ces réglages par instance."
+
+msgid "Default colors & spacing"
+msgstr "Couleurs et espacements par défaut"
+
+msgid "Card background"
+msgstr "Arrière-plan de la carte"
+
+msgid "Quote / description text"
+msgstr "Texte de la citation"
+
+msgid "Position / company text"
+msgstr "Texte poste / entreprise"
+
+msgid "Customer name (cursive)"
+msgstr "Nom du client (cursive)"
+
+msgid "Quote mark color"
+msgstr "Couleur des guillemets"
+
+msgid "Border color"
+msgstr "Couleur de bordure"
+
+msgid "Border width (px)"
+msgstr "Largeur de bordure (px)"
+
+msgid "Border radius (px)"
+msgstr "Rayon de bordure (px)"
+
+msgid "Inner padding (px)"
+msgstr "Marge intérieure (px)"
+
+msgid "Gap between cards (px)"
+msgstr "Espace entre les cartes (px)"
+
+msgid "Heading font size (px)"
+msgstr "Taille du titre (px)"
+
+msgid "Description font size (px)"
+msgstr "Taille de la description (px)"
+
+msgid "Displays"
+msgstr "Affichages"
+
+msgid "Display"
+msgstr "Affichage"
+
+msgid "Add New Display"
+msgstr "Nouvel affichage"
+
+msgid "Edit Display"
+msgstr "Modifier l'affichage"
+
+msgid "New Display"
+msgstr "Nouvel affichage"
+
+msgid "Search Displays"
+msgstr "Rechercher des affichages"
+
+msgid "No displays found"
+msgstr "Aucun affichage trouvé"
+
+msgid "No displays found in Trash"
+msgstr "Aucun affichage dans la corbeille"
+
+msgid "Give this display a name (only visible to admins)."
+msgstr "Donnez un nom à cet affichage (visible uniquement par les admins)."
+
+msgid "Version"
+msgstr "Version"
+
+msgid "All testimonials"
+msgstr "Tous les témoignages"
+
+msgid "Save"
+msgstr "Enregistrer"
+
+msgid "Save display"
+msgstr "Enregistrer l'affichage"
+
+msgid "Display is saved and ready to use."
+msgstr "L'affichage est enregistré et prêt à l'emploi."
+
+msgid "Save the display first to get a shortcode."
+msgstr "Enregistrez d'abord l'affichage pour obtenir un shortcode."
+
+msgid "Paste this shortcode anywhere on your site:"
+msgstr "Collez ce shortcode partout sur votre site :"
+
+msgid "Click to select, then copy."
+msgstr "Cliquer pour sélectionner, puis copier."
+
+msgid "1. Choose layout version"
+msgstr "1. Choisir la version de mise en page"
+
+msgid "2. Quote mark style"
+msgstr "2. Style des guillemets"
+
+msgid "3. Content source"
+msgstr "3. Source du contenu"
+
+msgid "4. Layout-specific options"
+msgstr "4. Options spécifiques à la mise en page"
+
+msgid "5. Design overrides (optional)"
+msgstr "5. Surcharges de design (optionnel)"
+
+msgid "V1 — Horizontal rows"
+msgstr "V1 — Lignes horizontales"
+
+msgid "1 or 2 rows scrolling left/right with fading edges."
+msgstr "1 ou 2 lignes défilant à gauche/droite avec bords estompés."
+
+msgid "V2 — Vertical columns"
+msgstr "V2 — Colonnes verticales"
+
+msgid "2 or 3 columns scrolling up/down with fading edges."
+msgstr "2 ou 3 colonnes défilant en haut/bas avec bords estompés."
+
+msgid "V3 — Photo carousel"
+msgstr "V3 — Carrousel photo"
+
+msgid "Single row, large photo on top of each card."
+msgstr "Une ligne, grande photo en haut de chaque carte."
+
+msgid "V4 — Bento grid"
+msgstr "V4 — Grille bento"
+
+msgid "Asymmetric grid with one highlighted box."
+msgstr "Grille asymétrique avec une boîte mise en avant."
+
+msgid "V5 — Avatar switcher"
+msgstr "V5 — Sélecteur d’avatars"
+
+msgid "Click an avatar to reveal the matching quote (max 29)."
+msgstr "Cliquez un avatar pour révéler le témoignage (max 29)."
+
+msgid "V6 — Photo hero card"
+msgstr "V6 — Carte héros avec photo"
+
+msgid "Large photo at the top of each card, dark content section below."
+msgstr "Grande photo en haut de chaque carte, section sombre en dessous."
+
+msgid "V7 — Pastel tilted cards"
+msgstr "V7 — Cartes pastel inclinées"
+
+msgid "Slightly rotated cards in pastel colors (set per testimonial)."
+msgstr "Cartes légèrement inclinées en couleurs pastel (réglable par témoignage)."
+
+msgid "V8 — Split panel hero"
+msgstr "V8 — Hero divisé en panneaux"
+
+msgid "Wide hero card: quote on the left, photo + name on the right."
+msgstr "Carte héros large : citation à gauche, photo + nom à droite."
+
+msgid "Photo on top, dark content card."
+msgstr "Photo en haut, carte sombre dessous."
+
+msgid "Slightly rotated colored cards."
+msgstr "Cartes colorées légèrement inclinées."
+
+msgid "Wide split: quote left, photo + name right."
+msgstr "Division large : citation à gauche, photo + nom à droite."
+
+msgid "V7 uses the per-testimonial background and text color from the \"V4 Highlight\" meta box on each Testimonial — set them there to give each card its own pastel color."
+msgstr "V7 utilise les couleurs de fond et de texte de chaque témoignage depuis la méta \"Couleurs de carte\"."
+
+msgid "Author box colors (V8 right panel)"
+msgstr "Couleurs du bloc auteur (panneau droit V8)"
+
+msgid "Author box background"
+msgstr "Fond du bloc auteur"
+
+msgid "Author box text color"
+msgstr "Couleur du texte du bloc auteur"
+
+msgid "Description box uses the global \"Card background\" and \"Quote / description text\" colors from the design overrides below."
+msgstr "Le bloc description utilise les couleurs globales \"Fond de carte\" et \"Texte de citation/description\" des surcharges ci-dessous."
+
+msgid "Description box colors (V8 left panel)"
+msgstr "Couleurs du bloc description (panneau gauche V8)"
+
+msgid "Description box background"
+msgstr "Fond du bloc description"
+
+msgid "Description box text color"
+msgstr "Couleur du texte du bloc description"
+
+msgid "Right column ratio: photo gets 2/3, author panel gets 1/3 vertically."
+msgstr "Ratio de la colonne droite : photo 2/3, panneau auteur 1/3 (vertical)."
+
+msgid "left description box"
+msgstr "bloc description gauche"
+
+msgid "right author box"
+msgstr "bloc auteur droit"
+
+msgid "Which testimonial to display"
+msgstr "Quel témoignage afficher"
+
+msgid "— First in selected category —"
+msgstr "— Premier de la catégorie sélectionnée —"
+
+msgid "V8 is designed to feature a single testimonial. Pick which one — leave empty to use the first from the selected category."
+msgstr "V8 est conçu pour mettre en avant un seul témoignage. Choisissez lequel — laisser vide pour utiliser le premier de la catégorie."
+
+msgid "Card colors (V4 highlight, V7 background)"
+msgstr "Couleurs de carte (V4 mise en avant, V7 arrière-plan)"
+
+msgid "Used by V4 (only when highlighted above) and V7 (always — each card uses its own background and text color)."
+msgstr "Utilisé par V4 (uniquement si mis en avant) et V7 (toujours — chaque carte a son propre fond et texte)."
+
+msgid "Style 1 — Teardrop \"66\""
+msgstr "Style 1 — Goutte \"66\""
+
+msgid "Style 2 — Bold block"
+msgstr "Style 2 — Bloc gras"
+
+msgid "Style 3 — Calligraphic comma"
+msgstr "Style 3 — Virgule calligraphique"
+
+msgid "Style 4 — Speech-bubble outline"
+msgstr "Style 4 — Contour bulle"
+
+msgid "Limit"
+msgstr "Limite"
+
+msgid "New testimonials added to this category will appear automatically."
+msgstr "Les nouveaux témoignages ajoutés à cette catégorie apparaîtront automatiquement."
+
+msgid "-1 = no limit. V5 always caps at 29."
+msgstr "-1 = pas de limite. V5 toujours max 29."
+
+msgid "Rows"
+msgstr "Lignes"
+
+msgid "Columns"
+msgstr "Colonnes"
+
+msgid "Direction"
+msgstr "Direction"
+
+msgid "Left"
+msgstr "Gauche"
+
+msgid "Right"
+msgstr "Droite"
+
+msgid "Up"
+msgstr "Haut"
+
+msgid "Down"
+msgstr "Bas"
+
+msgid "Alternate direction per row/column"
+msgstr "Alterner la direction par ligne/colonne"
+
+msgid "Speed (sec for full loop)"
+msgstr "Vitesse (sec / boucle)"
+
+msgid "Lower = faster."
+msgstr "Plus bas = plus rapide."
+
+msgid "Fade edges"
+msgstr "Estomper les bords"
+
+msgid "V4 has no slider — boxes display in a static bento grid. Use the per-testimonial highlight toggle to mark one box."
+msgstr "V4 n'a pas de slider — les boîtes s'affichent dans une grille bento statique. Utilisez l'interrupteur de mise en avant par témoignage."
+
+msgid "Leave a field empty to inherit the global Settings page value."
+msgstr "Laissez vide pour hériter de la valeur globale."
+
+msgid "Text color"
+msgstr "Couleur du texte"
+
+msgid "Meta color"
+msgstr "Couleur des méta"
+
+msgid "Name color"
+msgstr "Couleur du nom"
+
+msgid "Padding (px)"
+msgstr "Marge intérieure (px)"
+
+msgid "Gap (px)"
+msgstr "Espace (px)"
+
+msgid "Layout versions overview"
+msgstr "Aperçu des versions de mise en page"
+
+msgid "Five layouts are available. Create a Display to assemble one with a few clicks, or use the shortcode attributes directly."
+msgstr "Cinq mises en page disponibles. Créez un affichage en quelques clics, ou utilisez directement les attributs du shortcode."
+
+msgid "1 or 2 scrolling rows."
+msgstr "1 ou 2 lignes défilantes."
+
+msgid "2 or 3 scrolling columns."
+msgstr "2 ou 3 colonnes défilantes."
+
+msgid "Single row with hero photos."
+msgstr "Une ligne avec photos en vedette."
+
+msgid "Static grid, 1 highlighted box."
+msgstr "Grille statique, 1 boîte mise en avant."
+
+msgid "Click avatar, reveal quote."
+msgstr "Cliquer sur un avatar, révéler le témoignage."
+
+msgid "Create a new Display"
+msgstr "Créer un affichage"
+
+msgid "Manage Displays"
+msgstr "Gérer les affichages"
+
+msgid "Recommended: create a Display and use"
+msgstr "Recommandé : créez un affichage et utilisez"
+
+msgid "Or use raw attributes:"
+msgstr "Ou utilisez les attributs bruts :"
+
+msgid "Display post ID"
+msgstr "ID de l'affichage"
+
+msgid "All (overrides every other attribute except those you also pass explicitly)"
+msgstr "Tous (remplace tous les autres attributs sauf ceux explicitement passés)"
+
+msgid "Qaiyo Plugins"
+msgstr "Plugins Qaiyo"
+
+msgid "Slider behavior"
+msgstr "Comportement du slider"
+
+msgid "Default speed (sec for full loop)"
+msgstr "Vitesse par défaut (sec / boucle)"
+
+msgid "Lower = faster. Used for V1, V2, V3, V5."
+msgstr "Plus bas = plus rapide. Pour V1, V2, V3, V5."
+
+msgid "Fade edges on sliders"
+msgstr "Estomper les bords"
+
+msgid "Enabled by default (V1, V2, V3)"
+msgstr "Activé par défaut (V1, V2, V3)"
+
+msgid "Shortcode reference"
+msgstr "Référence du shortcode"
+
+msgid "Attribute"
+msgstr "Attribut"
+
+msgid "Values"
+msgstr "Valeurs"
+
+msgid "Used by"
+msgstr "Utilisé par"
+
+msgid "All"
+msgstr "Tous"
+
+msgid "category slug"
+msgstr "slug de catégorie"
+
+msgid "alternate per row/column"
+msgstr "alterner par ligne/colonne"
+
+msgid "All except V5"
+msgstr "Tous sauf V5"
+
+msgid "Made by"
+msgstr "Créé par"
+
+msgid "Choose photo"
+msgstr "Choisir une photo"
+
+msgid "Use this photo"
+msgstr "Utiliser cette photo"
+
+msgid "Remove photo"
+msgstr "Supprimer la photo"
+
+msgid "The selected image is larger than 1 MB. Please choose a smaller file."
+msgstr "L'image dépasse 1 Mo. Choisissez un fichier plus petit."
+
+msgid "Only JPG, PNG and WebP images are allowed."
+msgstr "Seules les images JPG, PNG et WebP sont autorisées."
+
+msgid "Data & maintenance"
+msgstr "Données et maintenance"
+
+msgid "When deleting the plugin"
+msgstr "Lors de la suppression de l'extension"
+
+msgid "Permanently delete all testimonials, displays, categories and settings on uninstall"
+msgstr "Supprimer définitivement tous les témoignages, affichages, catégories et réglages lors de la désinstallation"
+
+msgid "Off (default): your data is kept in the database if you delete the plugin, so reinstalling restores everything. On: deleting the plugin from the Plugins page also erases all data — this cannot be undone."
+msgstr "Désactivé (par défaut) : vos données restent dans la base si vous supprimez l'extension, une réinstallation restaure tout. Activé : supprimer l'extension efface aussi toutes les données — irréversible."
+
+msgid "PRO"
+msgstr "PRO"
+
+msgid "Available in Qaiyo Testimonials Pro"
+msgstr "Disponible dans Qaiyo Testimonials Pro"
+
+msgid "Unlock in Pro →"
+msgstr "Débloquer dans Pro →"
+
+msgid "Twelve layouts in total. V1–V6 are included free; V7–V12 are unlocked by the Qaiyo Testimonials Pro add-on."
+msgstr "Douze mises en page au total. V1–V6 sont incluses gratuitement ; V7–V12 sont débloquées par l’extension Qaiyo Testimonials Pro."
+
+msgid "Want layouts V7–V12, star ratings, a submission form, video testimonials and more?"
+msgstr "Vous voulez les mises en page V7–V12, les notes en étoiles, un formulaire de soumission, les témoignages vidéo et plus ?"
+
+msgid "Get Qaiyo Testimonials Pro"
+msgstr "Obtenir Qaiyo Testimonials Pro"

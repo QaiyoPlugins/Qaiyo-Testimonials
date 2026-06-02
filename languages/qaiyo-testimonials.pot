@@ -1,0 +1,551 @@
+# Qaiyo Testimonials translations
+# Copyright (C) Qaiyo by PixelDesigns
+msgid ""
+msgstr ""
+"Project-Id-Version: qaiyo-testimonials 1.0.0\n"
+"POT-Creation-Date: 2026-05-31 17:34+0000\n"
+"PO-Revision-Date: 2026-05-31 17:34+0000\n"
+"Last-Translator: Qaiyo by PixelDesigns <info@qaiyo-plugins.com>\n"
+"Language-Team: English\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: build-translations.py\n"
+
+msgid "Testimonials"
+msgstr ""
+
+msgid "Testimonial"
+msgstr ""
+
+msgid "Add New"
+msgstr ""
+
+msgid "Add New Testimonial"
+msgstr ""
+
+msgid "Edit Testimonial"
+msgstr ""
+
+msgid "New Testimonial"
+msgstr ""
+
+msgid "View Testimonial"
+msgstr ""
+
+msgid "Search Testimonials"
+msgstr ""
+
+msgid "No testimonials found"
+msgstr ""
+
+msgid "No testimonials found in Trash"
+msgstr ""
+
+msgid "All Testimonials"
+msgstr ""
+
+msgid "Categories"
+msgstr ""
+
+msgid "Category"
+msgstr ""
+
+msgid "Search Categories"
+msgstr ""
+
+msgid "All Categories"
+msgstr ""
+
+msgid "Edit Category"
+msgstr ""
+
+msgid "Update Category"
+msgstr ""
+
+msgid "Add New Category"
+msgstr ""
+
+msgid "New Category Name"
+msgstr ""
+
+msgid "Photo"
+msgstr ""
+
+msgid "Company"
+msgstr ""
+
+msgid "Testimonial Details"
+msgstr ""
+
+msgid "V4 Highlight (Bento)"
+msgstr ""
+
+msgid "Shortcode"
+msgstr ""
+
+msgid "Customer name is taken from the title above."
+msgstr ""
+
+msgid "Heading (optional)"
+msgstr ""
+
+msgid "Short headline shown above the quote (V1, V2, V3, V4). Leave empty to hide."
+msgstr ""
+
+msgid "Quote / Description"
+msgstr ""
+
+msgid "Position"
+msgstr ""
+
+msgid "Customer photo (JPG/PNG/WebP, max 1 MB)"
+msgstr ""
+
+msgid "Select / Upload"
+msgstr ""
+
+msgid "Remove"
+msgstr ""
+
+msgid "Highlight this box in V4 (Bento) layouts"
+msgstr ""
+
+msgid "Highlight background"
+msgstr ""
+
+msgid "Highlight text color"
+msgstr ""
+
+msgid "Only affects V4 (Bento). Other versions ignore these settings."
+msgstr ""
+
+msgid "Display testimonials with:"
+msgstr ""
+
+msgid "See the Settings page for all attributes."
+msgstr ""
+
+msgid "Testimonials Settings"
+msgstr ""
+
+msgid "Settings"
+msgstr ""
+
+msgid "Default frontend appearance for all testimonial layouts. Shortcode attributes override these defaults per instance."
+msgstr ""
+
+msgid "Default colors & spacing"
+msgstr ""
+
+msgid "Card background"
+msgstr ""
+
+msgid "Quote / description text"
+msgstr ""
+
+msgid "Position / company text"
+msgstr ""
+
+msgid "Customer name (cursive)"
+msgstr ""
+
+msgid "Quote mark color"
+msgstr ""
+
+msgid "Border color"
+msgstr ""
+
+msgid "Border width (px)"
+msgstr ""
+
+msgid "Border radius (px)"
+msgstr ""
+
+msgid "Inner padding (px)"
+msgstr ""
+
+msgid "Gap between cards (px)"
+msgstr ""
+
+msgid "Heading font size (px)"
+msgstr ""
+
+msgid "Description font size (px)"
+msgstr ""
+
+msgid "Displays"
+msgstr ""
+
+msgid "Display"
+msgstr ""
+
+msgid "Add New Display"
+msgstr ""
+
+msgid "Edit Display"
+msgstr ""
+
+msgid "New Display"
+msgstr ""
+
+msgid "Search Displays"
+msgstr ""
+
+msgid "No displays found"
+msgstr ""
+
+msgid "No displays found in Trash"
+msgstr ""
+
+msgid "Give this display a name (only visible to admins)."
+msgstr ""
+
+msgid "Version"
+msgstr ""
+
+msgid "All testimonials"
+msgstr ""
+
+msgid "Save"
+msgstr ""
+
+msgid "Save display"
+msgstr ""
+
+msgid "Display is saved and ready to use."
+msgstr ""
+
+msgid "Save the display first to get a shortcode."
+msgstr ""
+
+msgid "Paste this shortcode anywhere on your site:"
+msgstr ""
+
+msgid "Click to select, then copy."
+msgstr ""
+
+msgid "1. Choose layout version"
+msgstr ""
+
+msgid "2. Quote mark style"
+msgstr ""
+
+msgid "3. Content source"
+msgstr ""
+
+msgid "4. Layout-specific options"
+msgstr ""
+
+msgid "5. Design overrides (optional)"
+msgstr ""
+
+msgid "V1 — Horizontal rows"
+msgstr ""
+
+msgid "1 or 2 rows scrolling left/right with fading edges."
+msgstr ""
+
+msgid "V2 — Vertical columns"
+msgstr ""
+
+msgid "2 or 3 columns scrolling up/down with fading edges."
+msgstr ""
+
+msgid "V3 — Photo carousel"
+msgstr ""
+
+msgid "Single row, large photo on top of each card."
+msgstr ""
+
+msgid "V4 — Bento grid"
+msgstr ""
+
+msgid "Asymmetric grid with one highlighted box."
+msgstr ""
+
+msgid "V5 — Avatar switcher"
+msgstr ""
+
+msgid "Click an avatar to reveal the matching quote (max 29)."
+msgstr ""
+
+msgid "V6 — Photo hero card"
+msgstr ""
+
+msgid "Large photo at the top of each card, dark content section below."
+msgstr ""
+
+msgid "V7 — Pastel tilted cards"
+msgstr ""
+
+msgid "Slightly rotated cards in pastel colors (set per testimonial)."
+msgstr ""
+
+msgid "V8 — Split panel hero"
+msgstr ""
+
+msgid "Wide hero card: quote on the left, photo + name on the right."
+msgstr ""
+
+msgid "Photo on top, dark content card."
+msgstr ""
+
+msgid "Slightly rotated colored cards."
+msgstr ""
+
+msgid "Wide split: quote left, photo + name right."
+msgstr ""
+
+msgid "V7 uses the per-testimonial background and text color from the \"V4 Highlight\" meta box on each Testimonial — set them there to give each card its own pastel color."
+msgstr ""
+
+msgid "Author box colors (V8 right panel)"
+msgstr ""
+
+msgid "Author box background"
+msgstr ""
+
+msgid "Author box text color"
+msgstr ""
+
+msgid "Description box uses the global \"Card background\" and \"Quote / description text\" colors from the design overrides below."
+msgstr ""
+
+msgid "Description box colors (V8 left panel)"
+msgstr ""
+
+msgid "Description box background"
+msgstr ""
+
+msgid "Description box text color"
+msgstr ""
+
+msgid "Right column ratio: photo gets 2/3, author panel gets 1/3 vertically."
+msgstr ""
+
+msgid "left description box"
+msgstr ""
+
+msgid "right author box"
+msgstr ""
+
+msgid "Which testimonial to display"
+msgstr ""
+
+msgid "— First in selected category —"
+msgstr ""
+
+msgid "V8 is designed to feature a single testimonial. Pick which one — leave empty to use the first from the selected category."
+msgstr ""
+
+msgid "Card colors (V4 highlight, V7 background)"
+msgstr ""
+
+msgid "Used by V4 (only when highlighted above) and V7 (always — each card uses its own background and text color)."
+msgstr ""
+
+msgid "Style 1 — Teardrop \"66\""
+msgstr ""
+
+msgid "Style 2 — Bold block"
+msgstr ""
+
+msgid "Style 3 — Calligraphic comma"
+msgstr ""
+
+msgid "Style 4 — Speech-bubble outline"
+msgstr ""
+
+msgid "Limit"
+msgstr ""
+
+msgid "New testimonials added to this category will appear automatically."
+msgstr ""
+
+msgid "-1 = no limit. V5 always caps at 29."
+msgstr ""
+
+msgid "Rows"
+msgstr ""
+
+msgid "Columns"
+msgstr ""
+
+msgid "Direction"
+msgstr ""
+
+msgid "Left"
+msgstr ""
+
+msgid "Right"
+msgstr ""
+
+msgid "Up"
+msgstr ""
+
+msgid "Down"
+msgstr ""
+
+msgid "Alternate direction per row/column"
+msgstr ""
+
+msgid "Speed (sec for full loop)"
+msgstr ""
+
+msgid "Lower = faster."
+msgstr ""
+
+msgid "Fade edges"
+msgstr ""
+
+msgid "V4 has no slider — boxes display in a static bento grid. Use the per-testimonial highlight toggle to mark one box."
+msgstr ""
+
+msgid "Leave a field empty to inherit the global Settings page value."
+msgstr ""
+
+msgid "Text color"
+msgstr ""
+
+msgid "Meta color"
+msgstr ""
+
+msgid "Name color"
+msgstr ""
+
+msgid "Padding (px)"
+msgstr ""
+
+msgid "Gap (px)"
+msgstr ""
+
+msgid "Layout versions overview"
+msgstr ""
+
+msgid "Five layouts are available. Create a Display to assemble one with a few clicks, or use the shortcode attributes directly."
+msgstr ""
+
+msgid "1 or 2 scrolling rows."
+msgstr ""
+
+msgid "2 or 3 scrolling columns."
+msgstr ""
+
+msgid "Single row with hero photos."
+msgstr ""
+
+msgid "Static grid, 1 highlighted box."
+msgstr ""
+
+msgid "Click avatar, reveal quote."
+msgstr ""
+
+msgid "Create a new Display"
+msgstr ""
+
+msgid "Manage Displays"
+msgstr ""
+
+msgid "Recommended: create a Display and use"
+msgstr ""
+
+msgid "Or use raw attributes:"
+msgstr ""
+
+msgid "Display post ID"
+msgstr ""
+
+msgid "All (overrides every other attribute except those you also pass explicitly)"
+msgstr ""
+
+msgid "Qaiyo Plugins"
+msgstr ""
+
+msgid "Slider behavior"
+msgstr ""
+
+msgid "Default speed (sec for full loop)"
+msgstr ""
+
+msgid "Lower = faster. Used for V1, V2, V3, V5."
+msgstr ""
+
+msgid "Fade edges on sliders"
+msgstr ""
+
+msgid "Enabled by default (V1, V2, V3)"
+msgstr ""
+
+msgid "Shortcode reference"
+msgstr ""
+
+msgid "Attribute"
+msgstr ""
+
+msgid "Values"
+msgstr ""
+
+msgid "Used by"
+msgstr ""
+
+msgid "All"
+msgstr ""
+
+msgid "category slug"
+msgstr ""
+
+msgid "alternate per row/column"
+msgstr ""
+
+msgid "All except V5"
+msgstr ""
+
+msgid "Made by"
+msgstr ""
+
+msgid "Choose photo"
+msgstr ""
+
+msgid "Use this photo"
+msgstr ""
+
+msgid "Remove photo"
+msgstr ""
+
+msgid "The selected image is larger than 1 MB. Please choose a smaller file."
+msgstr ""
+
+msgid "Only JPG, PNG and WebP images are allowed."
+msgstr ""
+
+msgid "Data & maintenance"
+msgstr ""
+
+msgid "When deleting the plugin"
+msgstr ""
+
+msgid "Permanently delete all testimonials, displays, categories and settings on uninstall"
+msgstr ""
+
+msgid "Off (default): your data is kept in the database if you delete the plugin, so reinstalling restores everything. On: deleting the plugin from the Plugins page also erases all data — this cannot be undone."
+msgstr ""
+
+msgid "PRO"
+msgstr ""
+
+msgid "Available in Qaiyo Testimonials Pro"
+msgstr ""
+
+msgid "Unlock in Pro →"
+msgstr ""
+
+msgid "Twelve layouts in total. V1–V6 are included free; V7–V12 are unlocked by the Qaiyo Testimonials Pro add-on."
+msgstr ""
+
+msgid "Want layouts V7–V12, star ratings, a submission form, video testimonials and more?"
+msgstr ""
+
+msgid "Get Qaiyo Testimonials Pro"
+msgstr ""

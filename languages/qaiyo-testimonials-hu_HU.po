@@ -1,0 +1,551 @@
+# Qaiyo Testimonials translations
+# Copyright (C) Qaiyo by PixelDesigns
+msgid ""
+msgstr ""
+"Project-Id-Version: qaiyo-testimonials 1.0.0\n"
+"POT-Creation-Date: 2026-05-31 17:34+0000\n"
+"PO-Revision-Date: 2026-05-31 17:34+0000\n"
+"Last-Translator: Qaiyo by PixelDesigns <info@qaiyo-plugins.com>\n"
+"Language-Team: Hungarian\n"
+"Language: hu_HU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: build-translations.py\n"
+
+msgid "Testimonials"
+msgstr "Vélemények"
+
+msgid "Testimonial"
+msgstr "Vélemény"
+
+msgid "Add New"
+msgstr "Új hozzáadása"
+
+msgid "Add New Testimonial"
+msgstr "Új vélemény hozzáadása"
+
+msgid "Edit Testimonial"
+msgstr "Vélemény szerkesztése"
+
+msgid "New Testimonial"
+msgstr "Új vélemény"
+
+msgid "View Testimonial"
+msgstr "Vélemény megtekintése"
+
+msgid "Search Testimonials"
+msgstr "Vélemények keresése"
+
+msgid "No testimonials found"
+msgstr "Nincsenek vélemények"
+
+msgid "No testimonials found in Trash"
+msgstr "Nincsenek vélemények a kukában"
+
+msgid "All Testimonials"
+msgstr "Összes vélemény"
+
+msgid "Categories"
+msgstr "Kategóriák"
+
+msgid "Category"
+msgstr "Kategória"
+
+msgid "Search Categories"
+msgstr "Kategóriák keresése"
+
+msgid "All Categories"
+msgstr "Összes kategória"
+
+msgid "Edit Category"
+msgstr "Kategória szerkesztése"
+
+msgid "Update Category"
+msgstr "Kategória frissítése"
+
+msgid "Add New Category"
+msgstr "Új kategória"
+
+msgid "New Category Name"
+msgstr "Új kategória neve"
+
+msgid "Photo"
+msgstr "Fotó"
+
+msgid "Company"
+msgstr "Cég"
+
+msgid "Testimonial Details"
+msgstr "Vélemény részletei"
+
+msgid "V4 Highlight (Bento)"
+msgstr "V4 kiemelés (Bento)"
+
+msgid "Shortcode"
+msgstr "Shortcode"
+
+msgid "Customer name is taken from the title above."
+msgstr "Az ügyfél neve a fenti címmezőből származik."
+
+msgid "Heading (optional)"
+msgstr "Címsor (opcionális)"
+
+msgid "Short headline shown above the quote (V1, V2, V3, V4). Leave empty to hide."
+msgstr "Rövid címsor az idézet felett (V1, V2, V3, V4). Hagyd üresen az elrejtéshez."
+
+msgid "Quote / Description"
+msgstr "Idézet / Leírás"
+
+msgid "Position"
+msgstr "Beosztás"
+
+msgid "Customer photo (JPG/PNG/WebP, max 1 MB)"
+msgstr "Ügyfél fotó (JPG/PNG/WebP, max. 1 MB)"
+
+msgid "Select / Upload"
+msgstr "Kiválasztás / Feltöltés"
+
+msgid "Remove"
+msgstr "Eltávolítás"
+
+msgid "Highlight this box in V4 (Bento) layouts"
+msgstr "Box kiemelése V4 (Bento) elrendezéseknél"
+
+msgid "Highlight background"
+msgstr "Kiemelt háttér"
+
+msgid "Highlight text color"
+msgstr "Kiemelt szövegszín"
+
+msgid "Only affects V4 (Bento). Other versions ignore these settings."
+msgstr "Csak a V4 (Bento) verziónál érvényes. A többi verzió figyelmen kívül hagyja."
+
+msgid "Display testimonials with:"
+msgstr "Vélemények megjelenítése:"
+
+msgid "See the Settings page for all attributes."
+msgstr "Az összes attribútumért nézd meg a Beállítások oldalt."
+
+msgid "Testimonials Settings"
+msgstr "Vélemények beállításai"
+
+msgid "Settings"
+msgstr "Beállítások"
+
+msgid "Default frontend appearance for all testimonial layouts. Shortcode attributes override these defaults per instance."
+msgstr "Alapértelmezett frontend megjelenés. A shortcode attribútumok példányonként felülírják ezeket."
+
+msgid "Default colors & spacing"
+msgstr "Alapértelmezett színek és távolságok"
+
+msgid "Card background"
+msgstr "Kártya háttér"
+
+msgid "Quote / description text"
+msgstr "Idézet / leírás szövegszín"
+
+msgid "Position / company text"
+msgstr "Beosztás / cégnév szín"
+
+msgid "Customer name (cursive)"
+msgstr "Ügyfél neve (kézírásos)"
+
+msgid "Quote mark color"
+msgstr "Idézőjel szín"
+
+msgid "Border color"
+msgstr "Keret színe"
+
+msgid "Border width (px)"
+msgstr "Keret vastagság (px)"
+
+msgid "Border radius (px)"
+msgstr "Lekerekítés (px)"
+
+msgid "Inner padding (px)"
+msgstr "Belső térköz (px)"
+
+msgid "Gap between cards (px)"
+msgstr "Kártyák közti távolság (px)"
+
+msgid "Heading font size (px)"
+msgstr "Címsor betűméret (px)"
+
+msgid "Description font size (px)"
+msgstr "Leírás betűméret (px)"
+
+msgid "Displays"
+msgstr "Megjelenítések"
+
+msgid "Display"
+msgstr "Megjelenítés"
+
+msgid "Add New Display"
+msgstr "Új megjelenítés"
+
+msgid "Edit Display"
+msgstr "Megjelenítés szerkesztése"
+
+msgid "New Display"
+msgstr "Új megjelenítés"
+
+msgid "Search Displays"
+msgstr "Megjelenítések keresése"
+
+msgid "No displays found"
+msgstr "Nincs megjelenítés"
+
+msgid "No displays found in Trash"
+msgstr "Nincs megjelenítés a kukában"
+
+msgid "Give this display a name (only visible to admins)."
+msgstr "Adj nevet a megjelenítésnek (csak adminok látják)."
+
+msgid "Version"
+msgstr "Verzió"
+
+msgid "All testimonials"
+msgstr "Összes vélemény"
+
+msgid "Save"
+msgstr "Mentés"
+
+msgid "Save display"
+msgstr "Megjelenítés mentése"
+
+msgid "Display is saved and ready to use."
+msgstr "A megjelenítés mentve, használható."
+
+msgid "Save the display first to get a shortcode."
+msgstr "Először mentsd a megjelenítést a shortcode-hoz."
+
+msgid "Paste this shortcode anywhere on your site:"
+msgstr "Másold be ezt a shortcode-ot bárhova az oldaladon:"
+
+msgid "Click to select, then copy."
+msgstr "Kattints a kijelöléshez, majd másold."
+
+msgid "1. Choose layout version"
+msgstr "1. Válassz elrendezés verziót"
+
+msgid "2. Quote mark style"
+msgstr "2. Idézőjel stílus"
+
+msgid "3. Content source"
+msgstr "3. Tartalom forrás"
+
+msgid "4. Layout-specific options"
+msgstr "4. Verzió-specifikus opciók"
+
+msgid "5. Design overrides (optional)"
+msgstr "5. Design felülírás (opcionális)"
+
+msgid "V1 — Horizontal rows"
+msgstr "V1 — Vízszintes sorok"
+
+msgid "1 or 2 rows scrolling left/right with fading edges."
+msgstr "1 vagy 2 sor balra/jobbra gördülve, elhalványuló szélekkel."
+
+msgid "V2 — Vertical columns"
+msgstr "V2 — Függőleges oszlopok"
+
+msgid "2 or 3 columns scrolling up/down with fading edges."
+msgstr "2 vagy 3 oszlop fel/le gördülve, elhalványuló szélekkel."
+
+msgid "V3 — Photo carousel"
+msgstr "V3 — Fotó körhinta"
+
+msgid "Single row, large photo on top of each card."
+msgstr "Egy sor, nagy fotó minden kártya tetején."
+
+msgid "V4 — Bento grid"
+msgstr "V4 — Bento rács"
+
+msgid "Asymmetric grid with one highlighted box."
+msgstr "Aszimmetrikus rács egy kiemelt dobozzal."
+
+msgid "V5 — Avatar switcher"
+msgstr "V5 — Avatár váltó"
+
+msgid "Click an avatar to reveal the matching quote (max 29)."
+msgstr "Kattints egy avatárra a véleményéért (max. 29)."
+
+msgid "V6 — Photo hero card"
+msgstr "V6 — Fotós hero kártya"
+
+msgid "Large photo at the top of each card, dark content section below."
+msgstr "Nagy fotó minden kártya tetején, alatta sötét tartalom szekció."
+
+msgid "V7 — Pastel tilted cards"
+msgstr "V7 — Pasztel ferde kártyák"
+
+msgid "Slightly rotated cards in pastel colors (set per testimonial)."
+msgstr "Enyhén elforgatott pasztel színű kártyák (testimonialonként állítható)."
+
+msgid "V8 — Split panel hero"
+msgstr "V8 — Osztott hero panel"
+
+msgid "Wide hero card: quote on the left, photo + name on the right."
+msgstr "Széles hero kártya: idézet balra, fotó + név jobbra."
+
+msgid "Photo on top, dark content card."
+msgstr "Fotó felül, sötét tartalom kártya."
+
+msgid "Slightly rotated colored cards."
+msgstr "Enyhén elforgatott színes kártyák."
+
+msgid "Wide split: quote left, photo + name right."
+msgstr "Széles osztás: idézet balra, fotó + név jobbra."
+
+msgid "V7 uses the per-testimonial background and text color from the \"V4 Highlight\" meta box on each Testimonial — set them there to give each card its own pastel color."
+msgstr "A V7 minden testimonial saját háttér- és szövegszínét használja a \"Kártya színek\" meta box-ból — ott állítsd be, hogy minden kártya saját pasztel színt kapjon."
+
+msgid "Author box colors (V8 right panel)"
+msgstr "Szerző box színei (V8 jobb panel)"
+
+msgid "Author box background"
+msgstr "Szerző box háttér"
+
+msgid "Author box text color"
+msgstr "Szerző box szövegszín"
+
+msgid "Description box uses the global \"Card background\" and \"Quote / description text\" colors from the design overrides below."
+msgstr "A leírás box az alábbi design felülírások \"Kártya háttér\" és \"Idézet / leírás szöveg\" színeit használja."
+
+msgid "Description box colors (V8 left panel)"
+msgstr "Leírás box színei (V8 bal panel)"
+
+msgid "Description box background"
+msgstr "Leírás box háttér"
+
+msgid "Description box text color"
+msgstr "Leírás box szövegszín"
+
+msgid "Right column ratio: photo gets 2/3, author panel gets 1/3 vertically."
+msgstr "Jobb oszlop arány: a fotó 2/3-ot, a szerző panel 1/3-ot kap függőlegesen."
+
+msgid "left description box"
+msgstr "bal leírás box"
+
+msgid "right author box"
+msgstr "jobb szerző box"
+
+msgid "Which testimonial to display"
+msgstr "Melyik vélemény jelenjen meg"
+
+msgid "— First in selected category —"
+msgstr "— A kiválasztott kategória első eleme —"
+
+msgid "V8 is designed to feature a single testimonial. Pick which one — leave empty to use the first from the selected category."
+msgstr "A V8 egyetlen vélemény kiemelésére optimális. Válaszd ki melyiket — üresen hagyva a kiválasztott kategória első eleme jelenik meg."
+
+msgid "Card colors (V4 highlight, V7 background)"
+msgstr "Kártya színek (V4 kiemelés, V7 háttér)"
+
+msgid "Used by V4 (only when highlighted above) and V7 (always — each card uses its own background and text color)."
+msgstr "V4 használja (csak ha kiemelt) és V7 mindig — minden kártyához saját háttér- és szövegszín."
+
+msgid "Style 1 — Teardrop \"66\""
+msgstr "1. stílus — Csepp \"66\""
+
+msgid "Style 2 — Bold block"
+msgstr "2. stílus — Tömör blokk"
+
+msgid "Style 3 — Calligraphic comma"
+msgstr "3. stílus — Kalligráfikus vessző"
+
+msgid "Style 4 — Speech-bubble outline"
+msgstr "4. stílus — Buborék körvonal"
+
+msgid "Limit"
+msgstr "Korlát"
+
+msgid "New testimonials added to this category will appear automatically."
+msgstr "A kategóriához hozzáadott új vélemények automatikusan megjelennek."
+
+msgid "-1 = no limit. V5 always caps at 29."
+msgstr "-1 = nincs korlát. A V5 mindig max. 29."
+
+msgid "Rows"
+msgstr "Sorok"
+
+msgid "Columns"
+msgstr "Oszlopok"
+
+msgid "Direction"
+msgstr "Irány"
+
+msgid "Left"
+msgstr "Balra"
+
+msgid "Right"
+msgstr "Jobbra"
+
+msgid "Up"
+msgstr "Fel"
+
+msgid "Down"
+msgstr "Le"
+
+msgid "Alternate direction per row/column"
+msgstr "Soronként/oszloponként váltakozó irány"
+
+msgid "Speed (sec for full loop)"
+msgstr "Sebesség (mp / teljes kör)"
+
+msgid "Lower = faster."
+msgstr "Kisebb = gyorsabb."
+
+msgid "Fade edges"
+msgstr "Szélek elhalványítása"
+
+msgid "V4 has no slider — boxes display in a static bento grid. Use the per-testimonial highlight toggle to mark one box."
+msgstr "A V4-nek nincs slidere — a dobozok statikus bento rácsban jelennek meg. A vélemény-szintű kiemelés kapcsolóval jelölj ki egy dobozt."
+
+msgid "Leave a field empty to inherit the global Settings page value."
+msgstr "Hagyd üresen a mezőt, hogy a globális Beállítások értékét örökölje."
+
+msgid "Text color"
+msgstr "Szövegszín"
+
+msgid "Meta color"
+msgstr "Meta szín"
+
+msgid "Name color"
+msgstr "Név szín"
+
+msgid "Padding (px)"
+msgstr "Térköz (px)"
+
+msgid "Gap (px)"
+msgstr "Távolság (px)"
+
+msgid "Layout versions overview"
+msgstr "Elrendezés verziók áttekintése"
+
+msgid "Five layouts are available. Create a Display to assemble one with a few clicks, or use the shortcode attributes directly."
+msgstr "Öt elrendezés érhető el. Hozz létre egy Megjelenítést pár kattintással, vagy használd közvetlenül a shortcode attribútumait."
+
+msgid "1 or 2 scrolling rows."
+msgstr "1 vagy 2 görgő sor."
+
+msgid "2 or 3 scrolling columns."
+msgstr "2 vagy 3 görgő oszlop."
+
+msgid "Single row with hero photos."
+msgstr "Egy sor, nagy fotókkal."
+
+msgid "Static grid, 1 highlighted box."
+msgstr "Statikus rács, 1 kiemelt doboz."
+
+msgid "Click avatar, reveal quote."
+msgstr "Avatárra kattintva jelenik meg."
+
+msgid "Create a new Display"
+msgstr "Új megjelenítés létrehozása"
+
+msgid "Manage Displays"
+msgstr "Megjelenítések kezelése"
+
+msgid "Recommended: create a Display and use"
+msgstr "Ajánlott: hozz létre egy megjelenítést és használd ezt"
+
+msgid "Or use raw attributes:"
+msgstr "Vagy használd a nyers attribútumokat:"
+
+msgid "Display post ID"
+msgstr "Megjelenítés post ID"
+
+msgid "All (overrides every other attribute except those you also pass explicitly)"
+msgstr "Minden (felülír minden más attribútumot, kivéve amit kifejezetten átadsz)"
+
+msgid "Qaiyo Plugins"
+msgstr "Qaiyo pluginok"
+
+msgid "Slider behavior"
+msgstr "Slider működés"
+
+msgid "Default speed (sec for full loop)"
+msgstr "Alapértelmezett sebesség (mp / teljes kör)"
+
+msgid "Lower = faster. Used for V1, V2, V3, V5."
+msgstr "Kisebb = gyorsabb. V1, V2, V3, V5 használja."
+
+msgid "Fade edges on sliders"
+msgstr "Slider szélek elhalványítása"
+
+msgid "Enabled by default (V1, V2, V3)"
+msgstr "Alapból bekapcsolva (V1, V2, V3)"
+
+msgid "Shortcode reference"
+msgstr "Shortcode dokumentáció"
+
+msgid "Attribute"
+msgstr "Attribútum"
+
+msgid "Values"
+msgstr "Értékek"
+
+msgid "Used by"
+msgstr "Használja"
+
+msgid "All"
+msgstr "Mind"
+
+msgid "category slug"
+msgstr "kategória slug"
+
+msgid "alternate per row/column"
+msgstr "soronként/oszloponként váltakozó"
+
+msgid "All except V5"
+msgstr "Mind, V5 kivételével"
+
+msgid "Made by"
+msgstr "Készítette:"
+
+msgid "Choose photo"
+msgstr "Fotó kiválasztása"
+
+msgid "Use this photo"
+msgstr "Ezt a fotót használom"
+
+msgid "Remove photo"
+msgstr "Fotó eltávolítása"
+
+msgid "The selected image is larger than 1 MB. Please choose a smaller file."
+msgstr "A kiválasztott kép nagyobb mint 1 MB. Válassz kisebb fájlt."
+
+msgid "Only JPG, PNG and WebP images are allowed."
+msgstr "Csak JPG, PNG és WebP képek engedélyezettek."
+
+msgid "Data & maintenance"
+msgstr "Adatok és karbantartás"
+
+msgid "When deleting the plugin"
+msgstr "A plugin törlésekor"
+
+msgid "Permanently delete all testimonials, displays, categories and settings on uninstall"
+msgstr "Az összes vélemény, megjelenítés, kategória és beállítás végleges törlése a plugin eltávolításakor"
+
+msgid "Off (default): your data is kept in the database if you delete the plugin, so reinstalling restores everything. On: deleting the plugin from the Plugins page also erases all data — this cannot be undone."
+msgstr "Kikapcsolva (alapértelmezett): az adataid megmaradnak az adatbázisban a plugin törlésekor, így újratelepítéskor minden visszaáll. Bekapcsolva: a plugin törlése a Bővítmények oldalról egyúttal minden adatot is töröl — ez nem visszavonható."
+
+msgid "PRO"
+msgstr "PRO"
+
+msgid "Available in Qaiyo Testimonials Pro"
+msgstr "Elérhető a Qaiyo Testimonials Pro verzióban"
+
+msgid "Unlock in Pro →"
+msgstr "Feloldás a Pro-ban →"
+
+msgid "Twelve layouts in total. V1–V6 are included free; V7–V12 are unlocked by the Qaiyo Testimonials Pro add-on."
+msgstr "Összesen tizenkét elrendezés. A V1–V6 ingyenes; a V7–V12 a Qaiyo Testimonials Pro kiegészítővel oldható fel."
+
+msgid "Want layouts V7–V12, star ratings, a submission form, video testimonials and more?"
+msgstr "Szeretnéd a V7–V12 elrendezéseket, csillagozást, beküldő űrlapot, videó véleményeket és még többet?"
+
+msgid "Get Qaiyo Testimonials Pro"
+msgstr "Szerezd meg a Qaiyo Testimonials Pro-t"
